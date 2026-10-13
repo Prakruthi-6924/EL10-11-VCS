@@ -28,7 +28,7 @@ The following behaviour is not acceptable:
 
 If you experience or observe unacceptable behaviour, please report it to the repository owner through GitHub.
 
-GitHub repository: git clone https://github.com/Prakruthi-6924/EL10-11-VCS.git
+GitHub repository: https://github.com/Prakruthi-6924/EL10-11-VCS.git
 
 ## Responsibilities
 
