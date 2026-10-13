@@ -52,6 +52,14 @@ Hello, World!
 * *Italic text*
 * `Inline code`
 
+## Assignment Checklist
+
+- [x] Create a GitHub repository.
+- [x] Create and format README.md.
+- [x] Add Markdown examples.
+- [ ] Create GitHub Wiki pages.
+- [ ] Add CODE_OF_CONDUCT.md.
+
 ## Contributing
 
 Contributions are welcome. Please read the Code of Conduct before contributing.
