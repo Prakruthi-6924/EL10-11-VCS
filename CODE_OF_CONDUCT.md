@@ -28,6 +28,8 @@ The following behaviour is not acceptable:
 
 If you experience or observe unacceptable behaviour, please report it to the repository owner through GitHub.
 
+For reporting concerns, contact the repository owner, Prakruthi-6924, through GitHub.
+
 GitHub repository: https://github.com/Prakruthi-6924/EL10-11-VCS.git
 
 ## Responsibilities
