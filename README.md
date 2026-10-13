@@ -16,7 +16,7 @@ This repository demonstrates Markdown formatting, GitHub Wiki documentation, and
 3. Clone this repository.
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Prakruthi-6924/EL10-11-VCS.git
 ```
 
 4. Move into the project directory.
@@ -25,7 +25,6 @@ git clone YOUR_REPOSITORY_URL
 cd EL10-11-VCS
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the HTTPS URL of your own repository.
 
 ## Usage
 
